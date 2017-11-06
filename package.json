@@ -1,0 +1,21 @@
+{
+  "name": "simplemerakidashboardproxy",
+  "version": "1.0.0",
+  "description": "A Meraki Dashboard API proxy server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Cisco",
+    "Meraki",
+    "Dashboard",
+    "API"
+  ],
+  "author": "Cory Guynn",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  }
+}
