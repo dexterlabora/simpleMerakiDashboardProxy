@@ -20,9 +20,10 @@ Use the local server as the base url for the Meraki API endpoints.
 Client API request
 ```
  http://localhost:8005/organizations
- ```
- Becomes
- ```https://n143.meraki.com/api/v0/organizations
+```
+Becomes
+```
+https://n143.meraki.com/api/v0/organizations
 ```
 
 ## LICENSE (MIT)
